@@ -16,7 +16,7 @@
 <br />
 <div align="center">
     <a href="https://www.frontendmentor.io/profile/0xAbdul">
-    <img src="https://img.shields.io/badge/Type-Premium-000080?style=for-the-badge&logo=frontendmentor" alt="Abdul Profile">
+    <img src="https://img.shields.io/badge/Type-Free-000080?style=for-the-badge&logo=frontendmentor" alt="Abdul Profile">
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.frontendmentor.io/profile/0xAbdul">
     <img src="https://img.shields.io/badge/Languages-HTML & CSS-800080?style=for-the-badge&logo=frontendmentor" alt="Abdul Profile">
