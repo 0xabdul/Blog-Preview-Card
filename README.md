@@ -38,4 +38,9 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 <ul>
  <li>Live Site URL:  <a href="https://0xabdul.github.io/Blog-Preview-Card/">Click Here </a></li><br> 
   <li>Preview site soution : <a href="https://0xabdul.github.io/Blog-Preview-Card/"</a>Click Here</li>
-</ul>
+</ul><br>
+
+## Acknowledgments 🚀 <br>
+<ul>
+  <li>Inspiration by <a href="https://www.frontendmentor.io/home">Frontend Mentor</a></li>
+
