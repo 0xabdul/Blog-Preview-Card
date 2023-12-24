@@ -30,5 +30,5 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Links &#11088;
 <ul>
-<li>Live Site URL: <a href="https://0xabdul.github.io/skill-e-learning-landing-page/">Click Here</a></li><br> 
+<li>Live Site URL: <a href="https://0xabdul.github.io/skill-e-learning-landing-page/">Click Here</a></li><br>
 </ul>
