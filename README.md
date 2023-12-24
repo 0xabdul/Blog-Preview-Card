@@ -28,7 +28,9 @@
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).<br>
 ## Preview 🔖<br><br>
-![Blog preview card](https://github.com/0xabdul/Blog-Preview-Card/assets/119418867/beff369b-92c0-41e0-9464-3709de60d065)<br>
+![Blog preview card](https://github.com/0xabdul/Blog-Preview-Card/assets/119418867/beff369b-92c0-41e0-9464-3709de60d065)<br><br>
+![Untitled design](https://github.com/0xabdul/Blog-Preview-Card/assets/119418867/8244c312-99d6-4d66-a255-640c0598c4eb)
+
 
 
 
