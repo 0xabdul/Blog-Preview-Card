@@ -27,6 +27,10 @@
 # Frontend Mentor - Blog preview card solution<br>
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).<br>
+## Preview 🔖<br><br>
+![Blog preview card](https://github.com/0xabdul/Blog-Preview-Card/assets/119418867/beff369b-92c0-41e0-9464-3709de60d065)<br>
+
+
 
 ## Links &#11088;
 <ul>
