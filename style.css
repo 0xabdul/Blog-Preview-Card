@@ -84,10 +84,10 @@ h2:hover{
 }
 @media (max-width:450px) {
     .header-img img{
-        height:7rem;   
+        height:9rem;   
     }
     .container{
-        width:12rem;
+        width:15.5rem;
         box-shadow: 7px 7px black;
     }
     button{
@@ -117,4 +117,12 @@ h2:hover{
         gap:1rem;
     }
     
+}
+@media (max-width:300px) {
+    .header-img img{
+        height:6rem;   
+    }
+    .container{
+        width:10.5rem;
+    }
 }
